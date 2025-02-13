@@ -44,10 +44,6 @@ The dataset used contains information about patients, including:
 - The best-performing model is determined based on accuracy and error metrics.
 - Feature importance analysis reveals key factors affecting medical expenses.
 
-## Author
-Sai Lavanya  
-GitHub: [your-profile](https://github.com/your-username)
-
 
 # Medical-Insurance-Cost-Prediction
 Built a model to predict insurance costs using features like age, BMI, and smoking status. Implemented and compared Linear Regression, SVM, and Random Forest with optimized preprocessing and feature selection.
